@@ -19,8 +19,8 @@ I’ve also worked on various academic projects like:
 ---
 
 ### 🛠️ My Tech Toolbox  
-- **Frontend**: React.js, Angular, Redux  
-- **Backend**: Java Spring, Node.js, .NET  
+- **Frontend**: React.js, Angular  
+- **Backend**: Java Spring, .NET  
 - **Databases**: MySQL, PostgreSQL  
 - **DevOps**: Docker, Jenkins, CI/CD  
 - **Languages**: Java, Python, JavaScript, TypeScript, PHP, C  
